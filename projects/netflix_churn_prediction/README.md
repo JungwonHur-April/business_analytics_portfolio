@@ -25,7 +25,7 @@ Potential actions include targeted content recommendations, timely in-app prompt
 [netflix_churn_prediction.ipynb](netflix_churn_prediction.ipynb) - Full data preparation, modeling, evaluation, and interpretation
 
 ## Environment
-Python 3.12.12 with common data science libraries (pandas, numpy, scikit-learn).
+Python 3.12.12 with common data science libraries (pandas, numpy, scikit-learn)
 
 ## Notes
 The dataset is a simulated, Netflix-like subscription dataset used for analytical purposes.
