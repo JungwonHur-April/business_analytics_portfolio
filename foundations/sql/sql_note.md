@@ -1,6 +1,6 @@
 *Back to* [*Main*](https://github.com/JungwonHur-April/business_analytics_foundations_and_projects)
 <br />
-*Back to* [*Foundations*](https://github.com/JungwonHur-April/business_analytics_foundations_and_projects/foundations)
+*Back to* [*Foundations*](https://github.com/JungwonHur-April/business_analytics_foundations_and_projects/tree/main/foundations)
 
 
 ## SQL
