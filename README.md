@@ -13,13 +13,13 @@ Together, these practices are designed to mirror real-world business analytics w
 
 
 ## Repository Structure
-- **[foundations/](foundations/)**  
+- **[Foundations](foundations/)**  
   Foundational practice in Python and SQL to build core programming and analytical skills
 
-- **[projects/](projects/)**  
+- **[Projects](projects/)**  
   Applied analytics projects focused on end-to-end problem solving, including modeling and result interpretation
 
-- **[visualizations/](visualizations/)**  
+- **[Visualizations/](visualizations/)**  
   Tableau dashboards and visual analyses used to explore metrics and support data-driven insights
 
 
