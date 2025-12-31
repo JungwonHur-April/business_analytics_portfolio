@@ -25,9 +25,9 @@ How do order value metrics (AOV, ARPPU) evolve month-over-month, and which pro
 - Compared to the prior year, performance was notably stronger in November, which makes the December slowdown appear more pronounced and suggests that the year-end demand peak may have shifted earlier in the calendar rather than reflecting a structural weakening in overall performance.
 
 **By Category**
-- **Office Supplies** was the only category showing MoM growth across all major metrics, including customers, AOV, and ARPPU, indicating a balanced improvement in both volume and value dimensions.
-- **Furniture** showed growth in total sales driven by increases in both quantity and customer count, indicating volume-led expansion. However, declines in AOV and ARPPU suggest that this growth was not supported by value metrics and was likely driven by lower per-order and per-customer spend.
-- **Technology** experienced broad-based declines across key metrics, with the most pronounced weakness observed in value metrics such as AOV and ARPPU, indicating a contraction driven primarily by reduced per-order and per-customer spend rather than volume alone.
+- **Office Supplies:** it was the only category showing MoM growth across all major metrics, including customers, AOV, and ARPPU, indicating a balanced improvement in both volume and value dimensions.
+- **Furniture:** it showed growth in total sales driven by increases in both quantity and customer count, indicating volume-led expansion. However, declines in AOV and ARPPU suggest that this growth was not supported by value metrics and was likely driven by lower per-order and per-customer spend.
+- **Technology:** it experienced broad-based declines across key metrics, with the most pronounced weakness observed in value metrics such as AOV and ARPPU, indicating a contraction driven primarily by reduced per-order and per-customer spend rather than volume alone.
 
 **By Region**
 - High-ARPPU regions did not always align with high order volume, highlighting regional differences in revenue drivers.
