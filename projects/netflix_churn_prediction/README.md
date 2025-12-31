@@ -1,5 +1,9 @@
 # Netflix Churn Prediction
 
+## Repository Contents
+- [netflix_churn_prediction.ipynb](netflix_churn_prediction.ipynb) <br />
+  Comprehensive analysis report covering data preparation, model development, evaluation, and business interpretation
+
 ## Project Context
 This analysis uses customer-level subscription data from a Netflix-like streaming service, including user demographics, subscription information, and usage-related features.
 The dataset captures whether users churned or retained their subscriptions, enabling analysis of behavioral and account-level factors associated with customer churn.
@@ -20,9 +24,6 @@ Feature importance analysis consistently highlighted usage-related variables—s
 The results suggest that churn is less driven by static demographic attributes and more by sustained engagement patterns over time.
 This highlights the importance of retention strategies that focus on maintaining user activity, particularly for users showing early signs of disengagement.
 Potential actions include targeted content recommendations, timely in-app prompts, and experimentation with engagement-driven interventions.
-
-## Repository Contents
-[netflix_churn_prediction.ipynb](netflix_churn_prediction.ipynb) - Full data preparation, modeling, evaluation, and interpretation
 
 ## Environment
 Python 3.12.12 with common data science libraries (pandas, numpy, scikit-learn)
