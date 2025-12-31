@@ -1,3 +1,7 @@
+*← Back to* [*Main*](https://github.com/JungwonHur-April/business_analytics_foundations_and_projects/tree/main)
+<br />
+*← Back to* [*Visualizations*](https://github.com/JungwonHur-April/business_analytics_foundations_and_projects/tree/main/visualizations)
+
 # Overview
 This dashboard uses a metric hierarchy framework to break down month-over-month (MoM) changes in total sales into breadth (order and customer volume) and depth (value per purchasing customer).
 Rather than treating sales as a single outcome, the dashboard clarifies which underlying metrics actually drove MoM changes, and how those drivers differ across product categories.
