@@ -19,7 +19,7 @@ Together, these practices are designed to mirror real-world business analytics w
 - **[Projects](projects/)**  
   Applied analytics projects focused on end-to-end problem solving, including modeling and result interpretation
 
-- **[Visualizations/](visualizations/)**  
+- **[Visualizations](visualizations/)**  
   Tableau dashboards and visual analyses used to explore metrics and support data-driven insights
 
 
