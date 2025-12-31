@@ -12,18 +12,17 @@ Rather than focusing on a single KPI, the dashboard provides a stage-by-stage vi
 * Tableau Public: [View AARRR Dashboard](https://public.tableau.com/app/profile/jungwon.hur/viz/Part10-3_AARRR/AARRR)
 * **Core components:**
     * **Acquisition:** installs and signups by channel (last 30 days)
-    * **Activation:** event-based activation funnel
+    * **Activation:** event-based activation funnel (last 30 days)
+      * **Custom Conversion Rate:** flexible comparison between any two funnel events
     * **Retention:** weekly cohort retention
     * **Revenue:** monthly revenue trends
-    * **Referral:** friend-invite activity
-    * **Custom Conversion Rate:** flexible comparison between any two funnel events
+    * **Referral:** friend-invite activity (last 30 days)
 
 # Key Insights
 
 * **Acquisition:** Installs and signups were driven primarily by organic channels, suggesting that recent user growth relied more on baseline demand or brand-driven traffic than on incremental gains from paid acquisition.
-* **Activation:** Conversion rates across early activation steps—such as content views, searches, and add-to-cart events—remained flat or declined, indicating persistent friction before users fully engage with the product’s core value.
-               While most funnel transitions showed limited change, the conversion rate from purchase to complete registration increased sharply, implying that recent improvements were localized to a specific downstream step rather than reflecting end-to-end funnel optimization.
-* **Retention:** While overall retention did not show a sustained upward trend, clear spikes in first-event activity were observed around weeks 4–5 and again in weeks 8–9, suggesting that specific re-engagement moments or interventions temporarily reactivated users rather than driving consistent long-term retention.
+* **Activation:** Conversion rates across early activation steps, such as content views, searches, and add-to-cart events, remained flat or declined compared to the last 30 days, indicating persistent friction before users fully engage with the product’s core value. However, the conversion rate from purchase to complete registration increased sharply, implying that recent improvements were localized to a specific downstream step rather than reflecting end-to-end funnel optimization.
+* **Retention:** While overall retention did not show a sustained trend, clear spikes in first-event activity were observed around weeks 4–5 and again in weeks 8–9, suggesting that specific re-engagement moments or interventions temporarily reactivated users.
 
 # Business Implications
 * Gains at the purchase-to-registration stage may reflect UX or process improvements specific to account completion, but do not necessarily indicate healthier top-of-funnel engagement.
