@@ -1,7 +1,7 @@
 # Overview
 This dashboard uses a metric hierarchy framework to break down month-over-month (MoM) changes in total sales into breadth (order and customer volume) and depth (value per purchasing customer).
 Rather than treating sales as a single outcome, the dashboard clarifies which underlying metrics actually drove MoM changes, and how those drivers differ across product categories.
-
+<br />
 The analysis covers the period from October 1, 2022 to November 30, 2022.
 
 ![Metric Hierarchy Dashboard Overview](metric_hierarchy_dashboard_overview.png)
@@ -21,6 +21,7 @@ The analysis covers the period from October 1, 2022 to November 30, 2022.
 # Key Insights
 **Overview**
 - Total sales increased sharply MoM, driven by a substantial rise in orders and customers, while depth metrics such as ARPPU and AOV showed comparatively smaller or mixed changes, indicating that revenue growth was led by expanded purchasing activity rather than higher spend per customer.
+
 **By Category**
 - **Furniture:** Sales growth was supported by increases in both order volume and per-customer value, indicating that demand expanded without compromising monetization quality. However, ARPPU and AOV demonstrated relatively smaller rises compared to volume metrics, suggesting that the near-term focus should be maintaining the AOV/ARPPU lift.
 - **Office Supplies:** Sales growth was primarily from breadth expansion, showing consistent increases across both promotional and non-promotional purchases. However, depth weakened as ARPPU and AOV declined, indicating that future gains may require shifting focus from volume expansion toward improving per-order and per-customer value.
