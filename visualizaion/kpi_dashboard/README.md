@@ -1,6 +1,7 @@
 # Overview
 This dashboard is designed to analyze order value KPIs by examining month-over-month (MoM) performance changes and identifying whether growth is driven by customer volume or spending intensity per customer.
-
+<br />
+The analysis covers the period from November 1, 2022 to December 30, 2022.
 ![KPI Dashboard Overview](kpi_dashboard_overview.png)
 
 # Business Question
