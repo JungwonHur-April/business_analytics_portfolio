@@ -1,4 +1,4 @@
-# Business Analytics Foundations and Projects
+# Business Analytics Portfolio
 
 
 ## Repository Structure
